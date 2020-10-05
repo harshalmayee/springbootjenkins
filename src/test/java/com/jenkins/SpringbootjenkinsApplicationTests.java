@@ -18,6 +18,7 @@ public class SpringbootjenkinsApplicationTests {
 	@Test
 	public void contextLoads() {
 		logger.info("Test Case Executed....");
+		logger.info("Test Case Executed second log");
 		assertEquals(true, true);
 	}
 
