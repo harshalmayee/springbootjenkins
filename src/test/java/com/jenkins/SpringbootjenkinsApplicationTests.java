@@ -19,6 +19,7 @@ public class SpringbootjenkinsApplicationTests {
 	public void contextLoads() {
 		logger.info("Test Case Executed....");
 		logger.info("Test Case Executed second log");
+		logger.info("Test Case executed Email Notifications added");
 		assertEquals(true, true);
 	}
 
