@@ -20,6 +20,7 @@ public class SpringbootjenkinsApplicationTests {
 		logger.info("Test Case Executed....");
 		logger.info("Test Case Executed second log");
 		logger.info("Test Case executed Email Notifications added updated");
+		logger.info("Test Case executed Jenkins Pipeline Added");
 		assertEquals(true, true);
 	}
 
