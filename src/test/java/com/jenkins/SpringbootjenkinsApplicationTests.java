@@ -16,7 +16,7 @@ public class SpringbootjenkinsApplicationTests {
 
 
 	@Test
-	public  contextLoads() {
+	public void contextLoads() {
 		logger.info("Test Case Executed....");
 		logger.info("Test Case Executed second log");
 		logger.info("Test Case executed Email Notifications added updated");
